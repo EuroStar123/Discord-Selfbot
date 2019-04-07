@@ -1,0 +1,7 @@
+{
+    "bot_identifier": ":robot:",
+    "cmd_prefix": "$",
+    "customcmd_prefix": ";",
+    "token": "",
+    "track": false
+}
