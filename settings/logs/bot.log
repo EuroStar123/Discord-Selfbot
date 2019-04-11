@@ -3183,3 +3183,725 @@
 [07/04/2019 14:31] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
 [07/04/2019 14:31] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
 [07/04/2019 14:31] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[07/04/2019 14:32] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[07/04/2019 14:32] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[07/04/2019 14:33] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[07/04/2019 14:33] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[07/04/2019 14:33] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[07/04/2019 14:33] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[07/04/2019 14:33] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[07/04/2019 14:33] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[07/04/2019 14:34] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[07/04/2019 14:34] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[07/04/2019 14:34] WARNING gateway received_message 396: Unknown event SESSIONS_REPLACE.
+[07/04/2019 14:34] INFO client run 559: Received signal to terminate bot and event loop.
+[07/04/2019 14:34] INFO client _do_cleanup 479: Cleaning up event loop.
+[07/04/2019 14:34] INFO gateway poll_event 450: Websocket closed with 1000 (), cannot reconnect.
+[07/04/2019 14:34] INFO client when_future_is_done 497: Cleaning up after 8 tasks
+[11/04/2019 15:45] WARNING client __init__ 137: PyNaCl is not installed, voice will NOT be supported
+[11/04/2019 15:45] INFO client login 345: logging in using static token
+[11/04/2019 15:45] INFO gateway from_client 214: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[11/04/2019 15:45] INFO gateway identify 293: Shard ID None has sent the IDENTIFY payload.
+[11/04/2019 15:45] INFO gateway received_message 384: Shard ID None has connected to Gateway: gateway-prd-main-pq0r, discord-sessions-prd-1-5 (Session ID: 097b5ef2f63a9cf4a4d738b817009eed).
+[11/04/2019 15:45] WARNING gateway received_message 396: Unknown event SESSIONS_REPLACE.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 280985079985995777.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 280985079985995777.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 280985079985995777.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 280985079985995777.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 280985079985995777.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 280985079985995777.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 280985079985995777.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 280985079985995777.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 280985079985995777.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 280985079985995777.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 280985079985995777.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 280985079985995777.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 280985079985995777.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 789 members in guild ID 280985079985995777.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 37 members in guild ID 449249436506259466.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 65 members in guild ID 289448081148084225.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 305133076017577985.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 785 members in guild ID 305133076017577985.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 20 members in guild ID 533599133894967307.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 638 members in guild ID 450229640380809216.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 475856398488698890.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 480 members in guild ID 475856398488698890.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 487 members in guild ID 392676848393388034.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 230500411835023362.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 230500411835023362.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 230500411835023362.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 230500411835023362.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 230500411835023362.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 230500411835023362.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 230500411835023362.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 230500411835023362.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 230500411835023362.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 230500411835023362.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 230500411835023362.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 230500411835023362.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 230500411835023362.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 230500411835023362.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 964 members in guild ID 230500411835023362.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 58 members in guild ID 554337313090568192.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 83 members in guild ID 527713320745173002.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 50 members in guild ID 419805167534473226.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 581 members in guild ID 491634073505103872.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 268 members in guild ID 290572012437372931.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 21 members in guild ID 525212569322127379.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 12 members in guild ID 470230643981156352.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 582 members in guild ID 294956420905041920.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 419574346864918548.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 419574346864918548.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 419574346864918548.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 419574346864918548.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 419574346864918548.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 419574346864918548.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 419574346864918548.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 419574346864918548.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 419574346864918548.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 419574346864918548.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 419574346864918548.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 419574346864918548.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 419574346864918548.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 419574346864918548.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 722 members in guild ID 419574346864918548.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:45] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 356823991215980544.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 281 members in guild ID 356823991215980544.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 19 members in guild ID 563371698796101643.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 36 members in guild ID 372793020380217347.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 95 members in guild ID 527826138630979584.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 387507107357917185.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 215 members in guild ID 387507107357917185.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 56 members in guild ID 329250289855234050.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 472539897765560322.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 13 members in guild ID 472539897765560322.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 222 members in guild ID 474584589114015765.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 500 members in guild ID 523716599639834634.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 818 members in guild ID 464881760992493588.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 400168432844144651.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 257 members in guild ID 400168432844144651.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 8 members in guild ID 526721031235436547.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 531477842043600906.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 702 members in guild ID 531477842043600906.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 63 members in guild ID 550356180082622484.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 945 members in guild ID 256988924390408193.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 456086558521688064.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 91 members in guild ID 456086558521688064.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 124 members in guild ID 560266573135478785.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 135499198865997824.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 135499198865997824.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 135499198865997824.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 135499198865997824.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 135499198865997824.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 135499198865997824.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 135499198865997824.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 369 members in guild ID 135499198865997824.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 97 members in guild ID 305738347098406912.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 14 members in guild ID 501353144253546497.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 139 members in guild ID 277954215194787840.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 422814981520621569.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 422814981520621569.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 422814981520621569.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 422814981520621569.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 422814981520621569.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 758 members in guild ID 422814981520621569.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 38 members in guild ID 559406047761006613.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 69 members in guild ID 181425478471516161.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 1000 members in guild ID 482223277109018624.
+[11/04/2019 15:46] INFO state parse_guild_members_chunk 774: Processed a chunk for 207 members in guild ID 482223277109018624.
+[11/04/2019 15:46] WARNING gateway received_message 396: Unknown event MESSAGE_ACK.
+[11/04/2019 15:46] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:46] WARNING gateway received_message 396: Unknown event MESSAGE_ACK.
+[11/04/2019 15:46] INFO state _delay_ready 300: Requesting GUILD_SYNC for 43 guilds
+[11/04/2019 15:46] WARNING gateway received_message 396: Unknown event MESSAGE_ACK.
+[11/04/2019 15:46] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:46] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:46] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:46] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:46] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:46] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:46] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:47] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:47] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:47] WARNING gateway received_message 396: Unknown event MESSAGE_ACK.
+[11/04/2019 15:47] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:47] WARNING gateway received_message 396: Unknown event SESSIONS_REPLACE.
+[11/04/2019 15:47] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:47] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:47] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:47] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:47] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:47] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:47] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:47] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:47] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:47] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:47] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:47] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:47] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:48] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:48] WARNING gateway received_message 396: Unknown event MESSAGE_ACK.
+[11/04/2019 15:48] WARNING gateway received_message 396: Unknown event MESSAGE_ACK.
+[11/04/2019 15:48] WARNING gateway received_message 396: Unknown event MESSAGE_ACK.
+[11/04/2019 15:48] WARNING gateway received_message 396: Unknown event MESSAGE_ACK.
+[11/04/2019 15:48] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:48] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:48] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:48] WARNING gateway received_message 396: Unknown event MESSAGE_ACK.
+[11/04/2019 15:48] WARNING gateway received_message 396: Unknown event SESSIONS_REPLACE.
+[11/04/2019 15:48] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:48] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:48] WARNING gateway received_message 396: Unknown event MESSAGE_ACK.
+[11/04/2019 15:48] WARNING gateway received_message 396: Unknown event MESSAGE_ACK.
+[11/04/2019 15:48] WARNING gateway received_message 396: Unknown event SESSIONS_REPLACE.
+[11/04/2019 15:48] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:48] WARNING gateway received_message 396: Unknown event MESSAGE_ACK.
+[11/04/2019 15:48] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:49] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:49] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[11/04/2019 15:49] WARNING gateway received_message 396: Unknown event MESSAGE_ACK.
+[11/04/2019 15:49] WARNING state parse_presence_update 432: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
